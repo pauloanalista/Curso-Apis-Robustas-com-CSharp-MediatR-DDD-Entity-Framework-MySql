@@ -1,0 +1,12 @@
+D:\_Dev\VemDeZap\VemDeZap.Infra\bin\Debug\netcoreapp2.2\VemDeZap.Infra.deps.json
+D:\_Dev\VemDeZap\VemDeZap.Infra\bin\Debug\netcoreapp2.2\VemDeZap.Infra.dll
+D:\_Dev\VemDeZap\VemDeZap.Infra\bin\Debug\netcoreapp2.2\VemDeZap.Infra.pdb
+D:\_Dev\VemDeZap\VemDeZap.Infra\bin\Debug\netcoreapp2.2\VemDeZap.Domain.dll
+D:\_Dev\VemDeZap\VemDeZap.Infra\bin\Debug\netcoreapp2.2\VemDeZap.Domain.pdb
+D:\_Dev\VemDeZap\VemDeZap.Infra\obj\Debug\netcoreapp2.2\VemDeZap.Infra.csprojAssemblyReference.cache
+D:\_Dev\VemDeZap\VemDeZap.Infra\obj\Debug\netcoreapp2.2\VemDeZap.Infra.csproj.CoreCompileInputs.cache
+D:\_Dev\VemDeZap\VemDeZap.Infra\obj\Debug\netcoreapp2.2\VemDeZap.Infra.AssemblyInfoInputs.cache
+D:\_Dev\VemDeZap\VemDeZap.Infra\obj\Debug\netcoreapp2.2\VemDeZap.Infra.AssemblyInfo.cs
+D:\_Dev\VemDeZap\VemDeZap.Infra\obj\Debug\netcoreapp2.2\VemDeZap.Infra.csproj.CopyComplete
+D:\_Dev\VemDeZap\VemDeZap.Infra\obj\Debug\netcoreapp2.2\VemDeZap.Infra.dll
+D:\_Dev\VemDeZap\VemDeZap.Infra\obj\Debug\netcoreapp2.2\VemDeZap.Infra.pdb
